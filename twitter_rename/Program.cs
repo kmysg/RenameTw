@@ -113,7 +113,7 @@ namespace twitter_rename
 			screen_name = Properties.Settings.Default.Screen_name;
 			footer = Properties.Settings.Default.Set_footer;
 
-			//tokens = CoreTweet.Tokens.Create("ymwDU8f1iC060NmAEvMMM2rzS", "FYeNj3RwnHrLenzVmASQPtoMsKZdpOvV1EVIMg2ZiWLN4R5uCN", "937018429-0a96zAzWFlKAfF3kS6G5Y5kkm3QBi8KDPehMJdOY", "YOV7N3nVkLrIXghnPEf0owvcPulwfSkn5JTyNhNe0i1dI");
+			
 			
 		}
 		
