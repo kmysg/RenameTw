@@ -1,4 +1,4 @@
-﻿#define DEV
+﻿#define DEV //gitからの場合は削除
 
 using CoreTweet;
 using System;
@@ -26,7 +26,7 @@ namespace twitter_rename
 
 		public Setting()
 		{
-			//Reset();
+			//Reset();　リセット用
 			Xmlcreate();
 			XmlRead();
 			id = Properties.Settings.Default.My_id;
